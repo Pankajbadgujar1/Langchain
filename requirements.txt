@@ -8,3 +8,4 @@ arxiv
 fitz
 pymupdf
 wikipedia
+langchain-text-splitters
