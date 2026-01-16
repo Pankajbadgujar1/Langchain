@@ -11,7 +11,7 @@ wikipedia
 langchain-text-splitters
 langchain-openai
 langchain-huggingface
-chromadb
+langchain_chroma
 langchain-ollama
 #pydantic.deprecated.decorator
 sentence_transformers
