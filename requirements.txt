@@ -13,4 +13,6 @@ langchain-openai
 langchain-huggingface
 chromadb
 langchain-ollama
-pydantic.deprecated.decorator
+#pydantic.deprecated.decorator
+sentence_transformers
+langchain_huggingface
