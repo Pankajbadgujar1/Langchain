@@ -16,3 +16,4 @@ langchain-ollama
 #pydantic.deprecated.decorator
 sentence_transformers
 langchain_huggingface
+faiss-cpu
