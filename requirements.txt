@@ -242,3 +242,7 @@ zipp==3.23.0
 zstandard==0.25.0
 streamlit
 langchain_groq
+fastapi
+uvicorn
+langserve
+streamlit
