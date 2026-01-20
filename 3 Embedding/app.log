@@ -1,0 +1,7 @@
+2026-01-18 16:26:37,597 | INFO | ✅ Document loaded successfully
+2026-01-18 16:26:37,598 | INFO | ✅ Data transformed (split into chunks) successfully
+2026-01-18 16:26:37,845 | INFO | Use pytorch device_name: cpu
+2026-01-18 16:26:37,847 | INFO | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-18 16:26:42,650 | INFO | ✅ Embedding model loaded successfully
+2026-01-18 16:26:44,503 | INFO | Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-01-18 16:26:46,017 | INFO | ✅ Stored documents successfully in Chroma Vector DB
